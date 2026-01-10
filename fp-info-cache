@@ -1,4 +1,4 @@
-26800955038481066
+26802722500508295
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106658,6 +106658,13 @@ IRholder
 0
 0
 0
+prashantkicadlibrary
+LORA-02
+
+
+0
+13
+13
 prashantkicadlibrary
 MODULE_ESP32_DEVKIT_V1
 
